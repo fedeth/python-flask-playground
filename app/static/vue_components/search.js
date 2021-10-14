@@ -1,4 +1,3 @@
-import Vue from "../vue.js"
 import { getStores } from '../modules/api.js'
 
 export default {

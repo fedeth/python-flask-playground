@@ -2,6 +2,8 @@ __pycache__
 /node_modules/
 /venv/
 
+shopsDB.db
+
 # Used only for eslint
 package.json
 package-lock.json

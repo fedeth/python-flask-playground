@@ -1,4 +1,3 @@
-import Vue from './vue.js'
 import ComponentSearch from './vue_components/search.js'
 import { asyncDebounce } from './modules/debounce.js'
 import { getStores } from './modules/api.js'
